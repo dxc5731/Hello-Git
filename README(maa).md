@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img alt="LOGO" src="./docs/.vuepress/public/image/maa-logo_512x512.png" width="256" height="256" />
-
 # MaaAssistantArknights
 
 <br>
@@ -39,7 +37,7 @@ MAA 的意思是 MAA Assistant Arknights
 
 ## 明日方舟伤害计算公式
 $$
-Damage=(ATK*Rate_1-(1-Rate_2)*DEF_{enemy})*Rate_{3,1}* Rate_{3,2} *...
+Damage=(ATK*Rate_1-(1-Rate_2)*DEF_{enemy})*Rate_{3,1}*Rate_{3,2}*...
 $$
 
 **其中：**
