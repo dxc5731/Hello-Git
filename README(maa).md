@@ -37,7 +37,7 @@ MAA 的意思是 MAA Assistant Arknights
 
 ## 明日方舟伤害计算公式
 $$
-Damage=(ATK*Rate_1-(1-Rate_2)*DEF_{enemy})*Rate_{3,1}*Rate_{3,2}*...
+Damage=(ATK*Rate_1-(1-Rate_2)*DEF_{enemy})*Rate_{3,1}*Rate_{3,2}*Rate_{3,...}
 $$
 
 **其中：**
