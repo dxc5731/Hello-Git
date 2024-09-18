@@ -62,31 +62,6 @@ $$
 - 选择作业 JSON 文件，自动抄作业， [视频演示](https://www.bilibili.com/video/BV1H841177Fk/)
 - 支持 C, Python, Java, Rust, Golang, Java HTTP, Rust HTTP 等多种接口，方便集成调用，自定义你的 MAA！
 
-<!-- markdownlint-disable -->
-
-<details><summary>话不多说，看图！</summary>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./docs/.vuepress/public/image/zh-cn/readme/1-dark.png">
-  <img alt="zh1" src="./docs/.vuepress/public/image/zh-cn/readme/1-light.png">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./docs/.vuepress/public/image/zh-cn/readme/2-dark.png">
-  <img alt="zh2" src="./docs/.vuepress/public/image/zh-cn/readme/2-light.png">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./docs/.vuepress/public/image/zh-cn/readme/3-dark.png">
-  <img alt="zh3" src="./docs/.vuepress/public/image/zh-cn/readme/3-light.png">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./docs/.vuepress/public/image/zh-cn/readme/4-dark.png">
-  <img alt="zh4" src="./docs/.vuepress/public/image/zh-cn/readme/4-light.png">
-</picture>
-
-</details>
-
-<!-- markdownlint-restore -->
-
 ## 下载地址
 
 [官网](https://maa.plus) 或 [Releases](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases)
